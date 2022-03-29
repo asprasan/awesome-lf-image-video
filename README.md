@@ -85,10 +85,11 @@ There are mainly 4 datasets:
 
 ## Temporal super-resolution
 + Siggraph 2017 - [Light field video capture using a learning-based hybrid imaging system](https://dl.acm.org/doi/pdf/10.1145/3072959.3073614)
-+ [3DTV at home: eulerian-lagrangian stereo-to-multiview conversion](https://cdfg.mit.edu/assets/files/home3d.pdf) Looks very very relevant. I think it's somewhat similar to stereo magnification. It uses the Eulerian and Lagrangian approach to estimate depth and interpolate view from the stereo view.
-+ CGF journal 2020 - [Single Sensor Compressive Light Field Video Camera](https://hal.archives-ouvertes.fr/hal-02498719/file/Single_Sensor_Compressive_Light_Field_Video_Camera.pdf): Another important paper. Can use the dataset from this for evaluating the LF video reconstruction.
++ [3DTV at home: eulerian-lagrangian stereo-to-multiview conversion](https://cdfg.mit.edu/assets/files/home3d.pdf)
++ CGF journal 2020 - [Single Sensor Compressive Light Field Video Camera](https://hal.archives-ouvertes.fr/hal-02498719/file/Single_Sensor_Compressive_Light_Field_Video_Camera.pdf)
 + unpublished - [5D Light Field Synthesis from a Monocular Video](https://arxiv.org/pdf/1912.10687)
 + Sig Asia 2020 - [X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation](https://xfields.mpi-inf.mpg.de/) : Contains LF video dataset also has [Code](https://github.com/m-bemana/xfields) and [Dataset](https://xfields.mpi-inf.mpg.de/dataset/view_light_time.zip)
++ ICCV 2021 - [SeLFVi: Self-supervised Light Field Video Reconstruction from Stereo Video](https://openaccess.thecvf.com/content/ICCV2021/papers/Shedligeri_SeLFVi_Self-Supervised_Light-Field_Video_Reconstruction_From_Stereo_Video_ICCV_2021_paper.pdf): [Webpage](https://asprasan.github.io/pages/webpage-ICCV/index.html) and [Supplementary Material](https://openaccess.thecvf.com/content/ICCV2021/papers/Shedligeri_SeLFVi_Self-Supervised_Light-Field_Video_Reconstruction_From_Stereo_Video_ICCV_2021_paper.pdf)
 
 # Perceptual or other metrics for stereo and light field
 + [Perceptual evaluation of light field image](http://home.ustc.edu.cn/~weichou/papers/18_ICIP_LF.pdf)
