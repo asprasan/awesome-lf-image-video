@@ -99,3 +99,10 @@ There are mainly 4 datasets:
 # Video defocus
 + Siggraph - [Synthetic defocus and look-ahead autofocus for casual videography](https://arxiv.org/pdf/1905.06326.pdf)
 + Siggraph [X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation](https://dl.acm.org/doi/pdf/10.1145/3414685.3417827)
+
+# Some companies working on Light field imaging and displays
++ FacetVision, Germany [https://www.facetvision.de/](Website)
++ K|Lens, Germany [https://www.k-lens.de/](Website)
++ Leia Lumepad, USA [https://www.leiainc.com/](Website)
++ Dimenco, Netherlands [https://www.dimenco.eu/](Website)
++ SeeFront, Germany [https://www.seefront.com/](Website)
