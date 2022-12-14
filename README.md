@@ -101,8 +101,8 @@ There are mainly 4 datasets:
 + Siggraph [X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation](https://dl.acm.org/doi/pdf/10.1145/3414685.3417827)
 
 # Some companies working on Light field imaging and displays
-+ FacetVision, Germany [https://www.facetvision.de/](Website)
-+ K|Lens, Germany [https://www.k-lens.de/](Website)
-+ Leia Lumepad, USA [https://www.leiainc.com/](Website)
-+ Dimenco, Netherlands [https://www.dimenco.eu/](Website)
-+ SeeFront, Germany [https://www.seefront.com/](Website)
++ [FacetVision, Germany](https://www.facetvision.de/)
++ [K|Lens, Germany](https://www.k-lens.de/)
++ [Leia Lumepad, USA](https://www.leiainc.com/)
++ [Dimenco, Netherlands](https://www.dimenco.eu/)
++ [SeeFront, Germany](https://www.seefront.com/)
